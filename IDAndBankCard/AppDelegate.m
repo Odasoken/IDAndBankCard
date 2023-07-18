@@ -30,7 +30,7 @@
     identityCatrNav.title = @"身份证";
     
     
-    UITabBarController *cartTabBarVC = [UITabBarController alloc];
+    UITabBarController *cartTabBarVC = [[UITabBarController alloc] init];
     
     cartTabBarVC.viewControllers = @[bankCartNav, identityCatrNav];
     

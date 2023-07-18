@@ -231,7 +231,7 @@
 				TargetAttributes = {
 					C2FC0A341E0BB348002A00AB = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = G6NXXX8882;
+						DevelopmentTeam = 5H5T986HY7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -241,6 +241,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -398,7 +399,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = G6NXXX8882;
+				DEVELOPMENT_TEAM = 5H5T986HY7;
 				ENABLE_BITCODE = NO;
 				ENABLE_TESTABILITY = NO;
 				INFOPLIST_FILE = IDAndBankCard/Info.plist;
@@ -411,7 +412,7 @@
 					"$(PROJECT_DIR)/IDAndBankCard/Release-iphoneos/include/exbankcardcore",
 					"$(PROJECT_DIR)/IDAndBankCard/Release-iphoneos/bank_io/exbankcardcore",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = www.meloinfo.com.IDAndBankCard;
+				PRODUCT_BUNDLE_IDENTIFIER = www.meloinfo.com.IDAndBankCardk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -421,7 +422,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = G6NXXX8882;
+				DEVELOPMENT_TEAM = 5H5T986HY7;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = IDAndBankCard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
@@ -433,7 +434,7 @@
 					"$(PROJECT_DIR)/IDAndBankCard/Release-iphoneos/include/exbankcardcore",
 					"$(PROJECT_DIR)/IDAndBankCard/Release-iphoneos/bank_io/exbankcardcore",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = www.meloinfo.com.IDAndBankCard;
+				PRODUCT_BUNDLE_IDENTIFIER = www.meloinfo.com.IDAndBankCardk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
